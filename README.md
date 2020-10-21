@@ -10,4 +10,5 @@ Welcome to T-Sec MISP releases page.
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.133|16-10-2020 |16-10-2020            |29 |273   |163|115  |0       |21-10-2020  |tbd   |
 |2.4.132|15-09-2020 |21-08-2020            |0  |10    |9  |8    |0       |25-09-2020  |high  |
