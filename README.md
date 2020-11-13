@@ -3,7 +3,7 @@ Welcome to T-Sec MISP releases page.
 
 <!--- ALL LINES BELOW ARE READ BY AUTOMATED SCRIPTS, DO NOT CHANGE THE FORMAT --->
 ## Latest approved version
-Approved on means the version is evaluated and tested on internal T-Sec test instances. This is the date we start upgrade process - upgrade of T-Sec internal production instances and then customers instances.
+Approved on means the version is evaluated and tested on internal T-Sec test instances.
 
 |version|approved on|
 |-------|-----------|
