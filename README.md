@@ -16,6 +16,7 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.139|16-02-2021 |16-02-2021            |3  |22    |31 |46   |0       |18-02-2021  |normal|
 |2.4.138|08-02-2021 |08-02-2021            |5  |41    |46 |63   |0       |10-02-2021  |normal|
 |2.4.137|21-01-2021 |21-01-2021            |35 |115   |71 |119  |15      |21-01-2021  |high  |
 |2.4.136|16-12-2020 |18-01-2021            |18 |62    |61 |68   |7       |18-01-2021  |high  |
