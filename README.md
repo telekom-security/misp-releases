@@ -7,15 +7,16 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
-|2.4.142|28-04-2021 |
+|2.4.144|16-06-2021 |
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
-|2.4.142|28-04-2021 |
+|2.4.144|14-06-2021 |
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.144|07-06-2021 |09-06-2021            |6  |30    |44 |50   |2       |10-06-2021  |high  |
 |2.4.143|14-05-2021 |19-05-2021            |13 |49    |41 |70   |0       |27-05-2021  |normal|
 |2.4.142|26-04-2021 |27-04-2021            |22 |92    |55 |120  |1       |27-04-2021  |high  |
 |2.4.141|29-03-2021 |19-04-2021            |19 |76    |57 |101  |0       |19-04-2021  |normal|
