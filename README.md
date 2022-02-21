@@ -13,6 +13,8 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.151|01-12-2021 |
 
+_Note: version 153 has changelog issues. Reported: https://github.com/MISP/MISP/issues/6769 ._
+
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
