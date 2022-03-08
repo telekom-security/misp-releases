@@ -7,7 +7,7 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
-|2.4.151|01-12-2021 |
+|2.4.153|08-03-2022 |
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
@@ -18,6 +18,8 @@ _Note: version 153 had changelog issues. Reported: https://github.com/MISP/MISP/
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.155|03-03-2022 |            | |    | |   |       |  |  |  
+|2.4.154|02-03-2022 |            | |    | |   |       |  |  | 
 |2.4.153|04-02-2022 |21-02-2022            |10 |46    |36 |78   |5       |23-02-2022  |high  |
 |2.4.152|22-12-2021 |22-12-2021            |10 |75    |64 |71   |1       |04-01-2022  |normal|
 |2.4.151|22-11-2021 |23-11-2021            |33 |280   |100|151  |1       |29-11-2021  |high  |
