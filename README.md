@@ -13,13 +13,13 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.151|01-12-2021 |
 
-_Note: version 153 had changelog issues. Reported: https://github.com/MISP/MISP/issues/6769 ._
+_Note: version 153 had changelog issues. Reported: https://github.com/MISP/MISP/issues/6769 . Ver 155 not released changelog, hotfixes => finishing upgrades with 153._
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
 |2.4.155|03-03-2022 |            | |    | |   |       |  |  |  
-|2.4.154|02-03-2022 |            | |    | |   |       |  |  | 
+|2.4.154|02-03-2022 |09-03-2022            |12 |30    |27 |32   |2       |  |normal  |
 |2.4.153|04-02-2022 |21-02-2022            |10 |46    |36 |78   |5       |23-02-2022  |high  |
 |2.4.152|22-12-2021 |22-12-2021            |10 |75    |64 |71   |1       |04-01-2022  |normal|
 |2.4.151|22-11-2021 |23-11-2021            |33 |280   |100|151  |1       |29-11-2021  |high  |
