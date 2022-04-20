@@ -18,6 +18,7 @@ _Note: Ver 156 has sync issue: https://github.com/MISP/MISP/issues/8239 . So ver
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.158|20-04-2022 |19-04-2022            |9  |71    |45 |30   |9       |20-04-2022  |high  |
 |2.4.157|25-03-2022 |25-03-2022            |1  |16    |10 |18   |0       |28-03-2022  |high  |
 |2.4.156|18-03-2022 |18-03-2022            |19 |48    |41 |44   |4       |21-03-2022  |high  |
 |2.4.155|03-03-2022 |18-03-2022            |1  |10    |6  |16   |0       |21-03-2022  |normal|  
