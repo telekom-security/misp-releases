@@ -13,11 +13,12 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.157|29-03-2022 |
 
-_Note: Ver 156 has sync issue: https://github.com/MISP/MISP/issues/8239 . So ver 157 becomes high because of fix. _
+_Note: Ver 159 high to indicate also ver 158 security fixes installation. _
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.159|30-05-2022 |31-05-2022            |20 |138   |109|100  |0       |31-05-2022  |high  |
 |2.4.158|20-04-2022 |19-04-2022            |9  |71    |45 |30   |9       |20-04-2022  |high  |
 |2.4.157|25-03-2022 |25-03-2022            |1  |16    |10 |18   |0       |28-03-2022  |high  |
 |2.4.156|18-03-2022 |18-03-2022            |19 |48    |41 |44   |4       |21-03-2022  |high  |
