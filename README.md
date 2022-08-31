@@ -7,11 +7,11 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
-|2.4.159|08-06-2022 |
+|2.4.161|01-09-2022 |
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
-|2.4.157|29-03-2022 |
+|2.4.160.1|01-09-2022 |
 
 _Note: Ver 161 high to indicate also ver 160 security fixes installation. Holiday freeze delay. _
 
