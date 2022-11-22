@@ -18,6 +18,7 @@ _Note: Ver 2.4.161 approved 01-09-2022, but issue in new correlations feature fo
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.165|22-11-2022 |09-11-2022            |34 |90    |76 |74   |3       |22-11-2022  |high  |
 |2.4.164|10-10-2022 |06-10-2022            |6  |19    |18 |22   |0       |11-10-2022  |normal|
 |2.4.163|26-09-2022 |26-09-2022            |6  |69    |53 |34   |0       |11-10-2022  |normal|
 |2.4.162|13-09-2022 |09-09-2022            |10 |96    |37 |51   |0       |13-09-2022  |normal|
