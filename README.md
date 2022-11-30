@@ -13,11 +13,12 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.160.1|01-09-2022 |
 
-_Note: Ver 2.4.161 approved 01-09-2022, but issue in new correlations feature found: https://github.com/MISP/MISP/issues/8528 , so huge table recorellations (happens during upgrade) could be risky. Corrected in ver 162 in reality, approval started again. Ver 161 high to indicate also ver 160 security fixes installation. Holiday freeze delay. _
+_Note: Ver 2.4.166 evaluated as high as its installation will cover also .165 sec features. _
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.166|28-11-2022 |29-11-2022            |11 |29    |23 |33   |0       |30-11-2022  |high  |
 |2.4.165|22-11-2022 |09-11-2022            |34 |90    |76 |74   |3       |22-11-2022  |high  |
 |2.4.164|10-10-2022 |06-10-2022            |6  |19    |18 |22   |0       |11-10-2022  |normal|
 |2.4.163|26-09-2022 |26-09-2022            |6  |69    |53 |34   |0       |11-10-2022  |normal|
