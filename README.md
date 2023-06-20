@@ -13,11 +13,12 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.170.1|26-04-2023 |
 
-_Note:  _
+_Note:_ _ver 172: Overall security fixes are related to (T/H)OTP or non critical for us..._
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.172|09-06-2023 |09-06-2023            |8  |39    |34 |40   |12      |15-06-2023  |normal|
 |2.4.171|17-05-2023 |17-05-2023            |17 |39    |39 |43   |0       |29-05-2023  |normal|
 |2.4.170|13-04-2023 |13-04-2023            |1  |24    |26 |31   |1       |20-04-2023  |high  |
 |2.4.169|14-03-2023 |14-03-2023            |3  |26    |22 |24   |2       |03-04-2023  |normal|
