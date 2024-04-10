@@ -13,11 +13,17 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.175|06-09-2023 |
 
-_Note:_
+_Note: Version 2.4.186 failed on staging firing totally app internal exceptions - VM recovery needed. Awaiting corrections and more stable release._
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.4.189|05-04-2024 |05-04-2024            |3  |21    |16 |24   |0       |10-04-2024  |normal|
+|2.4.188|22-03-2024 |22-03-2024            |2  |19    |12 |30   |0       |10-04-2024  |normal|
+|2.4.187|07-03-2024 |07-03-2024            |3  |8     |12 |15   |2       |10-04-2024  |normal|
+|2.4.186|29-02-2024 |29-02-2024            |8  |78    |79 |49   |0       |19-03-2024  |high  |
+|2.4.185|16-02-2024 |16-02-2024            |0  |11    |7  |9    |1       |19-03-2024  |normal|
+|2.4.184|02-02-2024 |02-02-2024            |17 |81    |39 |44   |4       |18-03-2024  |normal|
 |2.4.183|05-01-2024 |05-01-2024            |7  |34    |30 |27   |0       |15-01-2024  |normal|
 |2.4.182|14-12-2023 |14-12-2023            |1  |14    |15 |23   |1       |15-01-2024  |normal|
 |2.4.181|01-12-2023 |01-12-2023            |0  |7     |4  |5    |0       |05-12-2023  |high - time|
