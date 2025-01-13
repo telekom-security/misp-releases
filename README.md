@@ -13,11 +13,13 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 |-------|-----------|
 |2.4.175|06-09-2023 |
 
-_Note: Version 2.4.186 failed on staging firing totally app internal exceptions - VM recovery needed. Awaiting corrections and more stable release._
+_Note 13-01-2025: Noted versions valid only after proper Docker migrations._
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.5.6  |03-01-2025 |13-01-2025            |1  |12    |33 |31   |2       |13-01-2025  |high|
+|2.4.X  |... |...            |...  |...    |... |...   |...       |...  |migration window|
 |2.4.189|05-04-2024 |05-04-2024            |3  |21    |16 |24   |0       |10-04-2024  |normal|
 |2.4.188|22-03-2024 |22-03-2024            |2  |19    |12 |30   |0       |10-04-2024  |normal|
 |2.4.187|07-03-2024 |07-03-2024            |3  |8     |12 |15   |2       |10-04-2024  |normal|
