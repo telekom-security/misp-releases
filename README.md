@@ -7,7 +7,7 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
-|2.5.18 |01-09-2025 |
+|2.5.22 |20-10-2025 |
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
