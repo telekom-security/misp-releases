@@ -18,6 +18,7 @@ _Note 13-01-2025: Noted versions valid only after proper Docker migrations._
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.5.27 |27-11-2025 |27-11-2025            |3  |14    |11 |18   |2       |01-12-2025  |high  |
 |2.5.26 |20-11-2025 |20-11-2025            |4  |14    |7  |10   |1       |24-11-2025  |high  |
 |2.5.25 |12-11-2025 |12-11-2025            |0  |2     |8  |10   |1       |24-11-2025  |high  |
 |2.5.24 |03-11-2025 |03-11-2025            |0  |4     |17 |5    |8       |24-11-2025  |high  |
