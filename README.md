@@ -7,11 +7,12 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
-|2.5.22 |20-10-2025 |
+|2.5.27 |08-12-2025 |
+
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
-|2.5.22 |13-10-2025 |
+|2.5.17.3 |08-12-2025 |
 
 _Note 13-01-2025: Noted versions valid only after proper Docker migrations._
 
