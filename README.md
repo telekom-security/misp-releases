@@ -7,19 +7,25 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
-|2.5.31 |08-01-2026 |
+|2.5.34 |19-03-2026 |
 
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
-|2.5.17.3 |08-12-2025 |
+|2.5.33.1 |19-03-2026 |
+
+_Note 06-05-2026: Starting from MISP v2.5.36, the official structured `Changelog.txt` is no longer updated. The values in this table are estimates derived from GitHub commit activity and release notes between adjacent patch tags then. Category counts (New, Changes, Fix, Other) reflect commit message prefixes and may not map perfectly to every code change. Security counts are intentionally
+conservative — erring towards over-reporting rather than under-reporting to ensure no security fix goes unnoticed._
 
 _Note 13-01-2025: Noted versions valid only after proper Docker migrations._
 
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
-|2.5.34 |06-03-2026 |                      |1  |0     |5  |4    |0       |11-03-2026  |normal|
+|2.5.37 |29-04-2026 |                      |94 |58    |52 |2    |5       |06-05-2026  |high|
+|2.5.36 |03-04-2026 |                      |26 |16    |19 |16   |5       |06-05-2026  |high  |
+|2.5.35 |18-03-2026 |18-03-2026            |18 |22    |25 |27   |0       |06-05-2026  |normal|
+|2.5.34 |06-03-2026 |06-03-2026            |1  |0     |5  |4    |0       |11-03-2026  |normal|
 |2.5.33 |27-02-2026 |02-03-2026            |20 |58    |112|89   |3       |09-03-2026  |high  |
 |2.5.32 |14-01-2026 |14-01-2026            |5  |10    |5  |10   |1       |26-02-2026  |high  |
 |2.5.31 |23-12-2025 |23-12-2025            |0  |13    |9  |18   |0       |05-01-2026  |normal|
