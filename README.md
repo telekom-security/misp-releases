@@ -3,18 +3,18 @@ Welcome to T-Sec MISP releases page.
 
 <!--- ALL LINES BELOW ARE READ BY AUTOMATED SCRIPTS, DO NOT CHANGE THE FORMAT --->
 ## Latest approved version
-Approved on means the version is evaluated and tested on internal T-Sec test instances.
+"Approved on" means the version is evaluated and tested on internal T-Sec test instances.
 
 |version|approved on|
 |-------|-----------|
-|2.5.37 |12-05-2026 |
+|2.5.41 |23-06-2026 |
 
 ## Latest approved PyMISP version
 |version|approved on|
 |-------|-----------|
 |2.5.34.1 |12-05-2026 |
 
-_Note 06-05-2026: Starting from MISP v2.5.36, the official structured `Changelog.txt` is no longer updated. The values in this table are estimates derived from GitHub commit activity and release notes between adjacent patch tags then. Category counts (New, Changes, Fix, Other) reflect commit message prefixes and may not map perfectly to every code change. Security counts are intentionally
+_Note 06-05-2026: Starting from MISP v2.5.36, the official structured `Changelog.txt` is typically no longer updated. The values in this table are estimates derived from GitHub commit activity and release notes between adjacent patch tags then. Category counts (New, Changes, Fix, Other) reflect commit message prefixes and may not map perfectly to every code change. Security counts are intentionally
 conservative — erring towards over-reporting rather than under-reporting to ensure no security fix goes unnoticed._
 
 _Note 13-01-2025: Noted versions valid only after proper Docker migrations._
