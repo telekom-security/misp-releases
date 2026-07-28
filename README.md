@@ -7,7 +7,7 @@ Welcome to T-Sec MISP releases page.
 
 |version|approved on|
 |-------|-----------|
-|2.5.41 |23-06-2026 |
+|2.5.44 |28-07-2026 |
 
 ## Latest approved PyMISP version
 |version|approved on|
