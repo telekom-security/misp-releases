@@ -7,7 +7,7 @@ Welcome to T-Sec MISP releases page.
 
 |version|approved on|
 |-------|-----------|
-|2.5.48 |07-10-2026 |
+|2.5.50 |22-10-2026 |
 
 ## Latest approved PyMISP version
 |version|approved on|
@@ -22,6 +22,8 @@ _Note 13-01-2025: Noted versions valid only after proper Docker migrations._
 ## Versions evaluation
 |version|released on|change log released on|new|change|fix|other|security|evaluated on|status|
 |-------|-----------|----------------------|---|------|---|-----|--------|------------|------|
+|2.5.50 |09-10-2026 |09-10-2026            |17 |28    |44 |25   |5       |21-10-2026  |high  |
+|2.5.49 |seems skipped | ---               |-- |--    |-- |--   |--      |21-10-2026  |--    |
 |2.5.48 |29-09-2026 |                      |3  |6     |13 |0    |23      |29-09-2026  |high  |
 |2.5.47 |17-09-2026 |                      |61 |57    |59 |0    |31      |23-09-2026  |high  |
 |2.5.46 |10-09-2026 |                      |13 |31    |42 |2    |42      |23-09-2026  |high  |
